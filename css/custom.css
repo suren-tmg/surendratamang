@@ -1,0 +1,5 @@
+@media(max-width:540px){
+.exp-list .l, .exp-list .m, .exp-list .r{
+padding:20px!important;
+}
+}
